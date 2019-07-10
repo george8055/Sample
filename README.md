@@ -1,1 +1,4 @@
 # Sample
+india
+pak
+nz
